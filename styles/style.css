@@ -39,6 +39,9 @@ ol {
 
 .page {
   padding: 133px 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .content {
@@ -114,10 +117,6 @@ ol {
   line-height: 1;
   text-transform: uppercase;
   margin-bottom: 6px;
-}
-
-.content__video-card-description-container {
-  padding: 4px;
 }
 
 .content__video-card-description {
