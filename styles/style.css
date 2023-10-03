@@ -40,7 +40,6 @@ ol {
 .page {
   padding: 133px 30px;
   display: flex;
-  justify-content: center;
   align-items: center;
 }
 
@@ -48,7 +47,6 @@ ol {
   display: flex;
   align-items: flex-end;
   gap: 30px;
-  height: 534px;
 }
 
 .result__video-container {
